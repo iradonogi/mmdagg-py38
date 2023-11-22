@@ -15,5 +15,5 @@ dist = setup(
     license="MIT License",
     packages=["mmdagg", ],
     install_requires=["numpy", "scipy", "jax", "jaxlib"],
-    python_requires=">=3.9",
+    python_requires=">=3.8",
 )
